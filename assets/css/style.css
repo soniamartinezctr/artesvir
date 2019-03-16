@@ -64,7 +64,7 @@ a {
   right: 0;
   height: 100vh;
   width: 5rem;
-  background: #b2d5b2;
+  background: #3778f0;
   top: 0;
   text-align: center;
   -webkit-transition: 0s all;
@@ -74,7 +74,7 @@ a {
     .probootstrap-logo {
       position: relative;
       height: inherit;
-      background: #b2d5b2;
+      background: #3778f0;
       width: 100%;
       display: block;
       padding: 20px; } }
@@ -104,7 +104,7 @@ a {
         -ms-transform: translate(0%, 0%) rotate(0deg);
         transform: translate(0%, 0%) rotate(0deg); } }
   .probootstrap-logo:hover {
-    background: #91c391; }
+    background: #3778f0; }
 
 .probootsrap-nav {
   padding-top: .5em;
@@ -147,7 +147,7 @@ a {
         margin-left: 0; }
       .probootsrap-nav ul li.active a {
         color: rgba(0, 0, 0, 0.7);
-        border-bottom: 2px solid #F96D00; }
+        border-bottom: 2px solid #ff3333; }
         @media screen and (max-width: 480px) {
           .probootsrap-nav ul li.active a {
             border-bottom: 2px solid transparent; } }

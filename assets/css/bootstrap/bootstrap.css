@@ -155,12 +155,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #F96D00;
+  color: #ff3333;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #ad4c00;
+    color: #ff4d4d;
     text-decoration: none; }
 
 a:not([href]):not([tabindex]) {
@@ -6572,10 +6572,10 @@ a.bg-navy:focus, a.bg-navy:hover {
   color: #fff !important; }
 
 .text-primary {
-  color: #F96D00 !important; }
+  color: #ff3333 !important; }
 
 a.text-primary:focus, a.text-primary:hover {
-  color: #c65700 !important; }
+  color: #ff3333 !important; }
 
 .text-secondary {
   color: #868e96 !important; }
